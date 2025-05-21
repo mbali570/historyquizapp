@@ -2,7 +2,7 @@ My App Title:History quiz app
 
 Links 
 GitHub Repository: https://github.com/mbali570/historyquizapp
-YouTube Demo: Watch the Video 
+YouTube Demo:https://youtu.be/lrgbcXcfBHk?si=U2Uo7oEkdCKUN73c
 
 Project Report
 Purpose of the Quiz App is toanswer questions based on history to teach viewers about the history, it is a fun quiz for those who are new in history or lack understanding which will make them know and understand the basics of history.
