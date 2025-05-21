@@ -18,8 +18,5 @@ Github is used display or show my code to more than one user if they want to und
 Example: The lecturer will see my code from Github instead of my virtual mechine.
 
 Screenshots
-Include visual representations of your app. You can embed images using Markdown like this:
+![Screenshot 2025-05-21 220044](https://github.com/user-attachments/assets/47dede15-3321-4e67-b39c-04f505724c87)
 
-markdown
-Copy
-Edit
